@@ -1,0 +1,6 @@
+/* App-specific overrides - most styles are in index.css */
+
+#root {
+  min-height: 100vh;
+  min-height: 100dvh;
+}
